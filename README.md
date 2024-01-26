@@ -1,5 +1,5 @@
 # evolutionary-algorithms
-Python project that contains 3 folders with applications that solve problems using evolutionary algorithms.
+Python project that contains 3 folders with applications that solve problems through methods inspired by nature using evolutionary algorithms.
 
 ### The problem of identifying communities in a complex network
 
