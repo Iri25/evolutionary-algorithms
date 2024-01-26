@@ -1,6 +1,8 @@
 # evolutionary-algorithms
 Python project that contains 3 folders with applications that solve problems through methods inspired by nature using evolutionary algorithms.
 
+Key concepts are evolutionary algorithms and the Ant Colony Optimization (ACO) algorithm.
+
 ### The problem of identifying communities in a complex network
 
 Discovering and analyzing communities in networks is a widely debated topic in sociology, biology, and computer science. Complex networks represent the support for different real systems (immune system, brain, transport infrastructure, etc.). A community in these networks is defined as a group of nodes densely connected to each other but loosely connected to nodes in other communities. The application identifies existing communities in a network. Information on the representation of chromosomes and genetic operators is used. The input data is saved in gml files and the output data are saved in txt files (Data package).
